@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://service-9sviexcx-1256962187.sh.tencentapigw.com/:match*"
+    }
+  ]
+}
